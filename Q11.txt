@@ -1,0 +1,1 @@
+GET e POST. O "GET" tem como objetivo receber dados de volta de um servidor. Já o "POST" envia dados ao servidor para processamento.

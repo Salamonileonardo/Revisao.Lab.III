@@ -1,0 +1,1 @@
+Do <h1> até o <h6>. Cada um possui um tamanho de fonte diferente, tendo diferentes funções. Indo do maior "<h1>" ao menor "<h6>"

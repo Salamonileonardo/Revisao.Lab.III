@@ -1,0 +1,1 @@
+Informa ao navegador web qual a versão do HTML a página está sendo formulada.

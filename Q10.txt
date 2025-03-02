@@ -1,0 +1,1 @@
+Devem ser inseridos no "<body>", pois é a parte que será exibida no site, como palavras em itálico, negrito e etc. Já no "<head>" é colocado tudo aquilo que não será exibido no site.

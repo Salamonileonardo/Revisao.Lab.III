@@ -1,0 +1,3 @@
+<p> </p> - Paragrafo
+<b> </b> - Negrito 
+<i> </i> - Italico

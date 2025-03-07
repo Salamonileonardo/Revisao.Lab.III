@@ -1,2 +1,2 @@
-<ul> </ul> - Lista Desorganizada 
-<ol> </ol> - Lista Organizada 
+<ul> </ul> - Lista Desordenada 
+<ol> </ol> - Lista Ordenada 
